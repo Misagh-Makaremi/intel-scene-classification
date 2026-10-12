@@ -1,5 +1,6 @@
 # intel-scene-classification
 CNN from Scratch vs ResNet18 Transfer Learning on Intel Image Classification
+<img width="849" height="991" alt="image" src="https://github.com/user-attachments/assets/d53b0db7-2dbd-41ae-b0fe-83d1eb881b68" />
 
 # 🌄 Intel Scene Classification
 ### CNN from Scratch vs. Transfer Learning (ResNet18)
