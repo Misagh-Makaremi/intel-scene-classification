@@ -187,14 +187,6 @@ the largest gains from transfer learning.
 - CUDA-capable GPU recommended (CPU inference works but is slow)
 - ~2 GB disk space for the dataset
 
-See `requirements.txt` for exact package versions.
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License.
-
 ---
 
 ## 🙏 Acknowledgements
